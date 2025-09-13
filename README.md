@@ -137,10 +137,14 @@ plt.axis('off')
 <img width="643" height="557" alt="image" src="https://github.com/user-attachments/assets/a4dd198c-992c-4380-b7af-ae930c199cec" />
 
 
+
+
 ### i)Image Translation
 
 
 <img width="762" height="506" alt="image" src="https://github.com/user-attachments/assets/b5c2a135-65d0-4c27-be4c-f55bfc46c8e3" />
+
+
 
 
 ### ii) Image Scaling
@@ -149,10 +153,14 @@ plt.axis('off')
 <img width="717" height="338" alt="image" src="https://github.com/user-attachments/assets/c4409628-e254-4025-b74a-2e707070587a" />
 
 
+
+
 ### iii)Image shearing
 
 
 <img width="725" height="565" alt="image" src="https://github.com/user-attachments/assets/2e0c49d6-f853-4ab6-9a0f-7ae0c8e764f8" />
+
+
 
 
 ### iv)Image Reflection
@@ -162,16 +170,22 @@ plt.axis('off')
 
 
 
+
+
 ### v)Image Rotation
 
 
 <img width="603" height="532" alt="image" src="https://github.com/user-attachments/assets/7fe50818-98ad-49f5-aeb6-9838e13ccf6f" />
 
 
+
+
 ### vi)Image Cropping
 
 
 <img width="641" height="567" alt="image" src="https://github.com/user-attachments/assets/a665d0b8-1b45-440f-900b-10a9528cbbce" />
+
+
 
 
 ## Result: 
